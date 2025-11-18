@@ -1,0 +1,28 @@
+{
+  "name": "portofolio",
+  "version": "1.0.0",
+  "description": "portofolio menggunakan tailwind css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuliawansProject/Portofolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuliawansProject/Portofolio/issues"
+  },
+  "homepage": "https://github.com/JuliawansProject/Portofolio#readme",
+  "devDependencies": {
+    "tailwindcss": "^4.1.17"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.17"
+  }
+  
+}
+
